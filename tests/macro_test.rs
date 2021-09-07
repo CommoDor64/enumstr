@@ -1,4 +1,4 @@
-use error::EnumStringer;
+use enumstr::EnumStringer;
 use std::fmt;
 
 #[derive(EnumStringer)]
